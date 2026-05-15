@@ -15,7 +15,8 @@ A IA terminou o trabalho. Vemos as garrafas divididas em duas esteiras: as que o
 - Falsos Negativos (C - O Erro do Tesouro Perdido): 5 garrafas Premium que a IA enviou para a esteira Comum.
 - Conceito Ilustrado: A visualização física dos quatro quadrantes da Matriz de Confusão.
 
-<img width="1380" height="752" alt="imagem2" src="https://github.com/user-attachments/assets/e2d49fcb-0135-4239-a7f6-cafe13ca0a04" /><br></br>
+<img width="1380" height="752" alt="imagem2" src="https://github.com/user-attachments/assets/ea619fdc-6d31-4a78-b394-5f890569f5a5" />
+<br></br>
 ## Passo 3: Entendendo a Precisão
 Seu Dito está preocupado com a reputação da sua marca Premium. Ele foca apenas nas garrafas que o robô predisse serem Premium (A + B, o "Grupo da Predição Alta Qualidade").<br></br>
 Dessas 55 garrafas, ele vê que 45 são realmente ótimas (VP), mas 10 são comuns (FP).<br></br>
